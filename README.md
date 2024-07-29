@@ -20,7 +20,7 @@
 <a href="https://medium.com/@nuurpaavel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nuurpaavel" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nmpavel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nmpavel" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@nmpavel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nmpavel" height="30" width="40" /></a>
-<a href="https://discord.gg/nmp5866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nmp5866" height="30" width="40" /></a>
+<a href="https://discord.gg/nmp5866" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nmp5877" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
