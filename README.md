@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pavel</h1>
 <h3 align="center">A passionate full stack developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on a tool(A react tool as a pet project)
+- 🔭 I’m currently working at TechnoNext Ltd(Software Concern of US BANGLA Group), as a Full Stack Web Developer using JavaScrip & Python.
 
-- 🌱 I’m currently learning **aws , docker , python , django**
+- 🌱 I’m currently learning **aws , docker , python , django , fastAPI**
 
-- 💬 Ask me about **react , vue , Javscript , Typescript , node**
+- 💬 Ask me about **react , vue , Javscript , Typescript , node , Python , Odoo , Django**
 
 - 📫 How to reach me **nuurpaavel@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16qF3gFTqJB-QQ1n6QNZ4iwb4EWLFdyrf/view?usp=sharing](https://drive.google.com/file/d/16qF3gFTqJB-QQ1n6QNZ4iwb4EWLFdyrf/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am music freak**
+- ⚡ Fun fact **I think I am a music freak**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
