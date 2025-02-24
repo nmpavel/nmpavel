@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **nuurpaavel@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16qF3gFTqJB-QQ1n6QNZ4iwb4EWLFdyrf/view?usp=sharing](https://drive.google.com/file/d/16qF3gFTqJB-QQ1n6QNZ4iwb4EWLFdyrf/view?usp=sharing)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xy4S5HePTlrf5KUwiaDa4NpsNwuO6g1B/view?usp=sharing](https://drive.google.com/file/d/1xy4S5HePTlrf5KUwiaDa4NpsNwuO6g1B/view?usp=sharing)
 - ⚡ Fun fact **I think I am a music freak**
 
 <h3 align="left">Connect with me:</h3>
